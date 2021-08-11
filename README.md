@@ -29,5 +29,7 @@ The Standardised HTMLs can be found here: https://unicourt.github.io/cic-code-co
 
  **Kentucky (KA):** https://unicourt.github.io/cic-code-ka
 
+ **Idaho (ID):** https://unicourt.github.io/cic-code-id
+
 
 
