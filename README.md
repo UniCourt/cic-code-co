@@ -11,6 +11,7 @@ Following releases are included:
  * Release 74 dated 2021.03.16.
  * Release 75 dated 2021.06.23.
  * Release 76 dated 2021.10.
+ * Release 77 dated 2022.02.
 
 Code which generates these files can be found here: https://github.com/UniCourt/cic-beautify-state-codes
 
