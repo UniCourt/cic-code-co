@@ -22,28 +22,30 @@ The Standardised HTMLs can be found here: https://unicourt.github.io/cic-code-co
 
  ###### Other state Codes:
 
+
+ **Alaska (AK):** https://unicourt.github.io/cic-code-ak
+
  **Arkansas (AR):** https://unicourt.github.io/cic-code-ar
 
- **Mississippi (MS):** https://unicourt.github.io/cic-code-ms
-
- **Tennessee (TN):** https://unicourt.github.io/cic-code-tn
-
  **Georgia (GA):** https://unicourt.github.io/cic-code-ga
-
- **Kentucky (KA):** https://unicourt.github.io/cic-code-ka
-
- **Idaho (ID):** https://unicourt.github.io/cic-code-id
-
- **Virginia (VA):** https://unicourt.github.io/cic-code-va
  
- **Vermont (VT):** https://unicourt.github.io/cic-code-vt
-
- **Wyoming (WY):** https://unicourt.github.io/cic-code-wy
-
+ **Idaho (ID):** https://unicourt.github.io/cic-code-id
+ 
+ **Kentucky (KY):** https://unicourt.github.io/cic-code-ky
+ 
+ **Mississippi (MS):** https://unicourt.github.io/cic-code-ms
+ 
  **North Carolina (NC):** https://unicourt.github.io/cic-code-nc
 
  **North Dakota (ND):** https://unicourt.github.io/cic-code-nd
+ 
+ **Tennessee (Tn):** https://unicourt.github.io/cic-code-tn
+ 
+ **Vermont (VT):** https://unicourt.github.io/cic-code-vt  
 
- **Alaska (AK):** https://unicourt.github.io/cic-code-ak
+ **Virginia (VA):** https://unicourt.github.io/cic-code-va
+
+ **Wyoming (WY):** https://unicourt.github.io/cic-code-wy
+
 
 
